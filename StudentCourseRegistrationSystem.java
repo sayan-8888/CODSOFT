@@ -146,6 +146,8 @@ public class StudentCourseRegistrationSystem {
         // Initialize some sample students
         studentDatabase.put("S001", new Student("S001", "Alice Johnson"));
         studentDatabase.put("S002", new Student("S002", "Bob Smith"));
+        studentDatabase.put("S003", new Student("S003", "Sayan Chakraborty"));
+        studentDatabase.put("S004", new Student("S004", "Swastik Roy Choudhury"));
 
         // Start the registration system
         Scanner scanner = new Scanner(System.in);
