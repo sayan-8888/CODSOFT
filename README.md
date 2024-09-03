@@ -7,7 +7,7 @@ This code implements a Number Guessing Game where players have up to five attemp
 The player's score increases based on the number of attempts remaining when they guess correctly. 
 After each round, the player can choose to play again, and their final score is displayed when they decide to stop.
 
-CODE INPUT AND OUTPUT:-
+EXAMPLE CODE INPUT AND OUTPUT:-
 Round 1: Guess the number between 1 and 100
 Attempt 1 - Enter your guess: 23
 Too low! Try again.
@@ -30,7 +30,7 @@ A Java console application that calculates and displays a student's total marks,
 Explanation
 This code prompts the user to enter the number of subjects and their respective marks, calculates the total marks and average percentage, and then determines the grade based on predefined percentage thresholds. The results, including the total marks, average percentage, and corresponding grade, are then displayed to the user.
 
-CODE INPUT AND OUTPUT:-
+EXAMPLE CODE INPUT AND OUTPUT:-
 
 Enter the number of subjects: 5
 Enter marks obtained in subject 1 (out of 100): 98
@@ -50,7 +50,7 @@ A Java application simulating an ATM interface allowing users to deposit, withdr
 Explanation
 This code defines an ATM class and a BankAccount class to simulate basic ATM functionality. The BankAccount class manages the balance and performs transactions, while the ATM class provides a user interface to interact with the bank account, allowing deposits, withdrawals, balance checks, and exit options. The ATMInterface class initializes the system and starts the ATM interface with a sample balance.
 
-CODE INPUT AND OUTPUT:-
+EXAMPLE CODE INPUT AND OUTPUT:-
 
 ATM Menu:
 1. Deposit
@@ -112,7 +112,7 @@ A Java quiz application that presents multiple-choice questions with a timer for
 Explanation
 This code implements a quiz application where users answer multiple-choice questions within a 15-second time limit per question. It uses a Timer to enforce the time limit and tracks the user's score based on correct answers. The QuizApplication class initializes the quiz with predefined questions, starts the quiz, and displays the final score at the end.
 
-CODE INPUT AND OUTPUT:-
+EXAMPLE CODE INPUT AND OUTPUT:-
 Question 1: What is the capital of France?
 1. Berlin
 2. Paris
@@ -160,7 +160,7 @@ A Java Student Course Registration System that allows students to register for, 
 Explanation
 This code provides a system for managing student course registrations. It includes features for displaying available courses, registering and dropping courses, and viewing a student's registered courses. The system uses HashMap to store course and student information and offers a command-line interface for user interaction.
 
-CODE INPUT AND OUTPUT:-
+EXAMPLE CODE INPUT AND OUTPUT:-
 
 --- Student Course Registration System ---
 1. Display Available Courses 
